@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TwiterSearches</string>
+    <string name="query_prompt">Digite aqui a query de busca</string>
+    <string name="save_description">Toque aqui para salvar</string>
+    <string name="missingMessage">Forneça a consulta e o identificador</string>
+    <string name="OK">OK</string>
+    <string name="searchUrl">http://mobile.twiter.com/search/</string>
+    <string name="shareEditDelete">Share, edit or delete the search tagged as \"%s\"</string>
+    <string name="cancel">Cancel</string>
+    <string name="shareSubject">Twiter search that might interest you</string>
+    <string name="shareMessage">Check out this Twiter search: \"%s\"</string>
+    <string name="shareSearch">Share search to:</string>
+    <string name="confirmMessage">Are you sure do you want to delete this search: \"%s\"?"</string>
+    <string name="delete">Delete</string>
+</resources>
