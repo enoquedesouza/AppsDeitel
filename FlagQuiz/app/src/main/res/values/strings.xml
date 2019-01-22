@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="settings_activity">Flag Quiz Settings</string>
+    <string name="number_of_choices">Number of Choices</string>
+    <string name="number_of_choices_description">Number of Choices Description</string>
+    <string name="world_regions">Regions</string>
+    <string name="world_regions_description">Regions to Include in the Quiz</string>
+    <string name="guess_country">Guess the Country</string>
+    <string name="results">%1$d guesses, %2$.02f%% correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="default_region_message">Setting North America as the default region.
+                                            One region must be selected.</string>
+    <string name="restarting_quiz">Quiz wilrestart with your new settings.</string>
+    <string name="ok">Ok</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="image_description">Imagem of the current flag in the quiz</string>
+    <string name="default_region">North_America</string>
+</resources>
